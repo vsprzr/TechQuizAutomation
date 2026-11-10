@@ -1,0 +1,11 @@
+{
+  "question": "In 1995, what was the first item ever sold on eBay (then called AuctionWeb)?",
+  "options": [
+    "A broken laser pointer",
+    "A vintage comic book",
+    "An Apple Macintosh computer",
+    "A cassette tape"
+  ],
+  "correct_answer": "A broken laser pointer",
+  "explanation": "eBay founder Pierre Omidyar listed his broken laser pointer as an experiment, and a collector surprisingly bought it for $14.83."
+}
